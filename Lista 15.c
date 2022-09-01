@@ -42,6 +42,12 @@ default:
     printf("A moeda escolhida não existe!");
     }
 
+
+
+
+
+
+
 system("pause");
 return 0;
 }
