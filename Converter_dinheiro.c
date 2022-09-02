@@ -12,7 +12,7 @@ setlocale(LC_ALL,"portuguese");
     printf("Escolha a quantia que deseja comprar: ");
     scanf("%f", &qtd);
 
-    printf("Sabendo que:\nDÛlar Canadense -> 1\nEuro -> 2\nDÛlar -> 3\nPeso -> 4\n");
+    printf("Sabendo que:\nD√≥lar Canadense -> 1\nEuro -> 2\nD√≥lar -> 3\nPeso -> 4\n");
     printf("Qual moeda deseja comprar: ");
     scanf("%d", &op);
 
@@ -39,7 +39,7 @@ qtd= qtd*(0.38*0.1);
     break;
 
 default:
-    printf("A moeda escolhida n„o existe!");
+    printf("A moeda escolhida n√£o existe!");
     }
 
 
