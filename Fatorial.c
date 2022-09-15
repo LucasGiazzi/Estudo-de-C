@@ -1,3 +1,5 @@
+// ACHAR O FATORIAL DE UM NÚMERO INTEIRO
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
