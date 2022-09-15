@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>]
+#include <stdlib.h>
 #include <locale.h>
 
 int ler()
 {
     int num;
-        printf("Insira um número INTEIRO E POSITIVO: ");
+        printf("Insira um nÃºmero INTEIRO E POSITIVO: ");
         scanf("%d", &num);
     return num;
 }
@@ -30,7 +30,7 @@ setlocale(LC_ALL,"portuguese");
 
     y= fat(x);
 
-    printf("O fatorial de %d é %d!\n\n", x, y);
+    printf("O fatorial de %d Ã© %d!\n\n", x, y);
 
 system("pause");
 return 0;
